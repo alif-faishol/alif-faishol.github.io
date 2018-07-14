@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "type": "object",
+  "properties": {
+    "portfolio": {
+      "type": "array",
+      "properties": {},
+      "title": "Portfolio",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "images": {
+            "type": "array",
+            "title": "Images",
+            "items": {
+              "type": "string"
+            }
+          },
+          "body": {
+            "type": "string",
+            "title": "Body",
+            "format": "markdown"
+          },
+          "tools_used": {
+            "type": "array",
+            "title": "Tools Used",
+            "items": {
+              "type": "string"
+            }
+          },
+          "videos": {
+            "type": "array",
+            "title": "Videos",
+            "items": {
+              "type": "string"
+            }
+          },
+          "category": {
+            "type": "string",
+            "title": "Category"
+          }
+        }
+      }
+    }
+  }
+}

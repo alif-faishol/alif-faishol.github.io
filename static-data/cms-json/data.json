@@ -1,0 +1,168 @@
+{
+  "portfolio": [
+    {
+      "name": "Logo of HeadBurst",
+      "body": "Rejected logo that was submitted for design contest.",
+      "images": [
+        "/images/HeadBurst.png"
+      ],
+      "tools_used": [
+        "Illustrator"
+      ],
+      "category": "Graphic Design"
+    },
+    {
+      "name": "Logo of Doorable",
+      "images": [
+        "/images/Doorable.jpg",
+        "/images/Doorable1.jpg"
+      ],
+      "body": "Rejected logo that was submitted for design contest.",
+      "tools_used": [
+        "Illustrator"
+      ],
+      "category": "Graphic Design"
+    },
+    {
+      "name": "Logo of Lucas KT Lee",
+      "images": [
+        "/images/LKL.png"
+      ],
+      "body": "Rejected logo that was submitted for design contest.",
+      "tools_used": [
+        "Illustrator"
+      ],
+      "category": "Graphic Design"
+    },
+    {
+      "name": "Logo of Curtis Miller Insurance",
+      "images": [
+        "/images/CMI.png",
+        "/images/CMI1.png"
+      ],
+      "body": "Rejected logo that was submitted for design contest.",
+      "tools_used": [
+        "Illustrator"
+      ],
+      "category": "Graphic Design"
+    },
+    {
+      "name": "Logo of ICHI",
+      "images": [
+        "/images/ICHI.jpg"
+      ],
+      "body": "Rejected logo that was submitted for design contest.",
+      "tools_used": [
+        "Illustrator"
+      ],
+      "category": "Graphic Design"
+    },
+    {
+      "name": "Logo of Ombudsman",
+      "images": [
+        "/images/ombudsman.png"
+      ],
+      "body": "Rejected logo that was submitted for design contest.",
+      "tools_used": [
+        "Illustrator"
+      ],
+      "category": "Graphic Design"
+    },
+    {
+      "name": "Logo of Germas",
+      "body": "Rejected logo that was submitted for design contest.",
+      "images": [
+        "/images/Germas.png"
+      ],
+      "tools_used": [
+        "Illustrator"
+      ],
+      "category": "Graphic Design"
+    },
+    {
+      "name": "Logo of IWFD",
+      "images": [
+        "/images/IWFD.png",
+        "/images/IWFD1.png",
+        "/images/IWFD2.png",
+        "/images/IWFD3.png"
+      ],
+      "body": "Rejected logo that was submitted for design contest.",
+      "tools_used": [
+        "Illustrator"
+      ],
+      "category": "Graphic Design"
+    },
+    {
+      "name": "Logo of Zeppelin Freight",
+      "images": [
+        "/images/Zeppelin%20Freight.jpg",
+        "/images/Zeppelin%20Freight1.jpg"
+      ],
+      "body": "Rejected logo that was submitted for design contest.",
+      "tools_used": [
+        "Illustrator"
+      ],
+      "category": "Graphic Design"
+    },
+    {
+      "name": "GDM Distributor Website",
+      "images": [
+        "/images/gdmbandung.png",
+        "/images/gdmbandung1.png"
+      ],
+      "body": "WooCommerce compatible WordPress template, a product catalog website.",
+      "tools_used": [
+        "WordPress",
+        "WooCommerce",
+        "VIM"
+      ],
+      "category": "Web Development"
+    },
+    {
+      "name": "Insantama PV",
+      "images": [
+        "/images/Insantama_PV.jpg"
+      ],
+      "body": "Promotional Explainer Video for new branch of insantama.",
+      "tools_used": [
+        "Illustrator",
+        "After Effects",
+        "Photoshop"
+      ],
+      "videos": [
+        "https://drive.google.com/file/d/1lI0_fdDAQhOcGn90GCyau1E1e5iyeu8o/preview"
+      ],
+      "category": "Motion Graphics"
+    },
+    {
+      "name": "Poltek Praktisi PV1",
+      "tools_used": [
+        "After Effects",
+        "Photoshop",
+        "Illustrator"
+      ],
+      "videos": [
+        "https://drive.google.com/file/d/1zR1LX8FhGOkkSAuo-4nP1hqU6tSPdj3P/preview"
+      ],
+      "category": "Motion Graphics",
+      "images": [
+        "/images/praktisi1.png"
+      ]
+    },
+    {
+      "name": "Poltek Praktisi PV2",
+      "images": [
+        "/images/praktisi2.png"
+      ],
+      "tools_used": [
+        "Illustrator",
+        "After Effects"
+      ],
+      "videos": [
+        "https://drive.google.com/file/d/1hY1l_7nejBmFUrKTQDcIhMnp8VQUc1oJ/preview"
+      ],
+      "category": "Motion Graphics"
+    }
+  ]
+}
